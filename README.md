@@ -2,7 +2,7 @@
 I'm currently a Computer Science Student, working on discovering more about the World of Programming. I am looking to collaborate with other students discovering the same space as I, experienced programmers, and any program that has seeks to work with a developer with my skills.<br>I am currently learning Solidity, Rust and Go. <br><br>I am Familiar with Git, bash, HTML and CSS, Python, Java, Javascript, Typescript, PHP, Node.js, React, Kali Linux and offensive secirity, Networking and is willing to be of help those on the path of learning the same.
 
 
-## 🌐 Socials:
+# Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mark Kiriti) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sl3nderman_txts) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Toshirou) 
 
 # Tech Stack:
